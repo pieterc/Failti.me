@@ -1,0 +1,22 @@
+Install Instructions
+1. LAMP stack
+sudo apt-get install apache2 php5 mysql-server phpmyadmin
+Does /etc/apache2/conf.d/phpmyadmin.conf exist? If not, does /etc/phpmyadmin/apache.conf exist? 
+
+If the first doesn't exist and the second does, try: 
+
+sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf.d/phpmyadmin.conf 
+sudo /etc/init.d/apache2 restart
+2. Install Curl
+sudo apt-get install php5-curl
+3. Install Apache Rewrite Module 
+sudo a2enmod rewrite
+4. Replace 'AllowOverride None' with 'AllowOverride All' in /etc/apache2/sites-enabled/000-default for directory / and /var/www/
+5. Make symbolic link in /var/www
+6. Check file permissions
+find . -type f -print0 | xargs -0 chmod 664
+find . -type d -print0 | xargs -0 chmod 775
+in app/tmp chmod -R 777 .
+7. Replace symbolic link dojo-themes in app/css and let it refer to webroot/js/libs/dojo-release-1.7.1/dijit/themes
+
+

@@ -1,0 +1,495 @@
+2012-04-22 12:20:15 Error: [MissingControllerException] Controller class CakephpController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-22 12:24:50 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-22 12:24:50 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-22 12:24:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-22 12:25:35 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-22 12:25:35 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-22 12:25:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:42:21 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:42:29 Error: [MissingControllerException] Controller class PostsController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 19:43:02 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:24:09 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:26:18 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:33:00 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:33:26 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:34:42 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:35:30 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:35:37 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:35:48 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:35:49 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:35:49 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:35:49 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 20:44:31 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:03:09 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(98): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:21:57 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:31:11 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:50:35 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:51:21 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:52:31 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:55:38 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:55:41 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:56:04 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:57:22 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 21:58:39 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 22:03:54 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 22:04:13 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-23 22:06:29 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-25 19:57:14 Error: [MissingActionException] Action PostsController::view() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-25 22:40:37 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Posts/add.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 16:54:40 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Routes/index.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 16:54:40 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Routes/index.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 17:34:18 Error: [MissingActionException] Action RoutesController::plan() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:02:29 Error: [MissingActionException] Action RoutesController::index() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:03 Error: [MissingActionException] Action RoutesController::css() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:03 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:03 Error: [MissingActionException] Action RoutesController::css() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:03 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:03 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:03 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:03 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:03 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:14 Error: [MissingActionException] Action RoutesController::css() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:14 Error: [MissingActionException] Action RoutesController::css() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:14 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:14 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:14 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:14 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:14 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:03:14 Error: [MissingActionException] Action RoutesController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(RoutesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:09:06 Error: [MissingControllerException] Controller class JjController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:14 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:37 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:37 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:37 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:37 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:37 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:37 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:37 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:38 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:24:38 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:25:55 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:06 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:06 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:06 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:06 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:06 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:06 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:06 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:06 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:26:07 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-04-29 18:37:09 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:10 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:10 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:10 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:10 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:10 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:10 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:10 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:10 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:37:36 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/login.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-04-29 18:46:12 Error: [MissingActionException] Action PostsController::css() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:46:12 Error: [MissingActionException] Action PostsController::css() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:46:12 Error: [MissingActionException] Action PostsController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:46:12 Error: [MissingActionException] Action PostsController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:46:12 Error: [MissingActionException] Action PostsController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:46:12 Error: [MissingActionException] Action PostsController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:46:12 Error: [MissingActionException] Action PostsController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-29 18:46:12 Error: [MissingActionException] Action PostsController::js() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-04-30 18:09:31 Error: [MissingViewException] View file "/home/nico/websites/CakePHP/CakePHP/app/View/Users/authenticate.ctp" is missing.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/View/View.php(460): View->_getViewFileName(NULL)
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(108): Controller->render()
+#3 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-05-01 11:15:24 Error: [MissingActionException] Action UsersController::index() could not be found.
+#0 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(101): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nico/websites/CakePHP/CakePHP/lib/Cake/Routing/Dispatcher.php(83): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/nico/websites/CakePHP/CakePHP/app/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
